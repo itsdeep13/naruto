@@ -1,7 +1,6 @@
 pyrofork
 tgcrypto
 requests
-pyromod
 yt-dlp
 aiohttp
 aiofiles
